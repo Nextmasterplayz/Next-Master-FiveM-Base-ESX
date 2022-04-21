@@ -1,0 +1,54 @@
+
+{
+    "settings" : "Settings",
+    "display" : "Display",
+    "display_description" : "Toggle parts of your HUD on / off by pressing a button",
+    "movement" : "Movement",
+    "movement_description" : "Readjust, move, and change language of your HUD",
+    "extras" : "Extras",
+    "extras_description" : "Extra settings for customization of your HUD",
+
+    "fuel_s" : "FUEL",
+    "fuel" : "Fuel",
+    "rpm" : "RPM",
+    "speed" : "Speed",
+    "belt" : "Speed",
+    "limiter" : "Limiter",
+    "gears" : "Gears",
+    "motor" : "Motor",
+    "right_signal" : "R Signal",
+    "wrench" : "Wrench",
+    "left_signal" : "L Signal",
+
+    "movement_sub" : "Movement",
+    "visual_sub" : "Visual",
+    "readjust_sub" : "Readjust",
+
+    "break" : "Break",
+    "freeze" : "Freeze",
+    "save_broke" : "Save",
+    "language" : "Language",
+    "refresh_rate" : "Refresh Rate",
+    "default" : "Default",
+    "speedo" : "Speedo",
+    "buttons" : "Buttons",
+    "switches" : "Switches",
+
+    "extra_hud" : "Extra Hud",
+    "dashboard" : "Dashboard",
+    "gps" : "GPS",
+
+    "mileage" : "Mileage",
+    "preview" : "Preview",
+    "headlights" : "Lights",
+
+    "maxspeed" : "Max Speed",
+    "map" : "Map Toggle",
+    "on" : "On",
+    "off" : "Off",
+    "default_two" : "Default",
+
+    "start" : "Start",
+    "locations" : "Locations",
+    "cancel" : "Cancel"
+}
